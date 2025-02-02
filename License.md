@@ -670,5 +670,24 @@ For more information on this, and how to apply and follow the GNU GPL, see
 into proprietary programs.  If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
+
+## License 
+This work is licensed under [GPL-3.0](LICENSE.md) - free to use, modify, and share under identical terms.
+
+## How to Contribute 
+1. Fork this repository 
+2. Add peer-review comments in `/peer_reviews` 
+3. Submit pull requests with "Ignis Malleus Certified" tag
+
+## Community Guidelines 
+- Debate fiercely but respect the human behind the hypothesis 
+- All conclusions must survive **Three Trials**: 
+  1. Mathematical consistency 
+  2. Ethical alignment 
+  3. Poetic resonance
+
+*gl gh o7* 
+*(Good luck, good hunting, and eternal vigilance in the cosmic forge)*
+
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
