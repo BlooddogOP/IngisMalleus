@@ -7,11 +7,12 @@
 This repository contains five groundbreaking papers challenging conventional astrophysical paradigms through rigorous human-AI collaboration. We propose revolutionary perspectives on black hole dynamics, spacetime topology, and quantum-cosmic interfaces.
 
 ## Key Papers 
-1. **Black Holes as Spacetime Torches** - Rethinking accretion disk phenomena as topological burns 
-2. **The Lens Effect** - Gravitational lensing reinterpreted as quantum entanglement signatures 
-3. **AI as Cosmic Rosetta Stone** - Neural networks decoding universal pattern languages 
-4. **Dreamstate Astrophysics** - Oneironautic research methodologies 
-5. **Ethical Event Horizons** - Guardian AI protocols for existential-risk research
+1. Cosmic Conversation: Fermis Antithesis - A rethinking of are capabilities and limitations of listening 
+2. Unified Theory of Black Hole Cosmogenesis - Steping back and looking at the entire cosmos and making logical assertions 
+3. Primordious Sphere: Unraveling the Primordial Soup - Describing a way older universe
+4. Cosmic Spikes: Sphere of Echoes - The fluctuations of the early universe
+5. Cold Hawking Radiation and the Frosted Halo: The Cosmic Mechanisms of Supermassive
+Primordial Black Holes - Considering purposes of black hole machinations 
 
 ## Key Insights 
 ### Provocative Premise: 
